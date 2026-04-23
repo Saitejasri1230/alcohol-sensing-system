@@ -1,0 +1,7 @@
+Alcohol Sensing System Logic:
+
+1. MQ-3 sensor detects alcohol level
+2. Arduino reads analog values
+3. If threshold exceeds:
+   → Engine is disabled
+4. ESP32-CAM sends alert/image

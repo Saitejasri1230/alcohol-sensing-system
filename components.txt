@@ -1,0 +1,6 @@
+Components Used:
+- MQ-3 Alcohol Sensor
+- Arduino
+- ESP32-CAM
+- Relay Module
+- Power Supply

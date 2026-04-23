@@ -1,0 +1,4 @@
+Connections:
+- MQ-3 → Arduino Analog Pin A0
+- Relay → Digital Pin D8
+- ESP32 → Serial Communication
